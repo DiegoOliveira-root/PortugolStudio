@@ -4,7 +4,7 @@ programa
 	funcao inicio()
 	
 	{
-		cadeia aprova_reprova[5][5],nome
+		cadeia aprova_reprova[4][4],nome
 		cadeia opcao
 		real peso,altura
 		inteiro idade,contador =1,apr_teen=0,repr=0,apr_a=0,apr_i=0
