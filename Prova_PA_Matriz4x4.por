@@ -4,7 +4,7 @@ programa
 	funcao inicio()
 	
 	{
-		cadeia aprova_reprova[5][5],nome
+		cadeia aprova_reprova[4][4],nome
 		cadeia opcao
 		real peso,altura
 		inteiro idade,contador =1,apr_teen=0,repr=0,apr_a=0,apr_i=0
@@ -96,7 +96,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 658; 
+ * @POSICAO-CURSOR = 93; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {aprova_reprova, 7, 9, 14};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
